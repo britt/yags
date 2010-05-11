@@ -1,6 +1,10 @@
 = yags
 
-Description goes here.
+A very dumb little script that quite inefficiently synchronizes changes from one git remote to another.
+
+== Usage
+
+    yags <source> <destination>
 
 == Note on Patches/Pull Requests
  
